@@ -1,0 +1,14 @@
+{
+  "name": "arms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "salifu zeba",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}

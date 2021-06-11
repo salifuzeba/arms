@@ -1,0 +1,30 @@
+{
+    "correctDetails": {
+        "email": "inventory@amalitech.org",
+        "password": "Admin@123"
+    },
+    "wrongEmailandCorrectPassword": {
+        "email": "oventory@amalitech.org",
+        "password": "Admin@123"
+    },
+    "CorrectEmailandWrongPassword": {
+        "email": "inventory@amalitech.org",
+        "password": "Admin@1234"
+    },
+    "wrongEmailandWrongPassword": {
+        "email": "ventory@amalitech.org",
+        "password": "Admin@12345"
+    },
+    "noEmailandPassword": {
+        "email": "",
+        "password": "Admin@123"
+    },
+     "emailandnoPassword": {
+        "email": "inventory@amalitech.org",
+        "password": ""
+    },
+       "noEmailandNoPassword": {
+        "email": "",
+        "password": ""
+    }
+}
